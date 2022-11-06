@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coder-zhuzm
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning React、Node.js、Vue
+- 🌱 I’m currently learning JavaScript React、Vue、Node ...
 - Twitter @coder_zhuzm   
 - Email:zhuzm0119@gmail.com
