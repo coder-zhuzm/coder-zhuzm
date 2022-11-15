@@ -5,7 +5,7 @@ Web Dev
 -------
 
 * 🌍  I'm based in CN HangZhou
-* ✉️  You can contact me at [zhuzm1916@gmail.com](mailto:zhuzm1916@gmail.com)
+* ✉️  You can contact me at Gmail [zhuzm1916@gmail.com](mailto:zhuzm1916@gmail.com)
 
 ### Skills
 
