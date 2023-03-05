@@ -42,4 +42,4 @@ Web Dev
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643515478/14993/music_level.gif?1643515478" width="24" /> Recently Played
 
-[![netease-profile](https://netease-recent-profile.vercel.app/?id=262136230)](https://music.163.com/#/user/home?id=262136230)
+
