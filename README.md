@@ -27,7 +27,7 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=coder-zhuzm&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=coder-zhuzm&theme=tokyonight&hide_border=true&locale=zh_Hans&card_width=700&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
 </p>
 
 ## Activity Graph
