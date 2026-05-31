@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,astro,java,androidstudio,cloudflare,git,github,vscode&perline=13" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,less,jquery,nodejs,nestjs,prisma,mysql,mongodb,redis,supabase,npm,pnpm,webpack,docker,nginx,cloudflare,java,kotlin,androidstudio,git,github,vscode,apple&perline=14" alt="Tech Stack" />
   </a>
 </p>
 
