@@ -1,12 +1,37 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is zhuzm
-=============================================================================================================================
+<h1 align="center">Hi, I'm zhuzm</h1>
 
-Web Dev
--------
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=700&center=true&vCenter=true&width=720&lines=Frontend+Engineer+%C2%B7+AI+Productivity+Practitioner;Building+AI+Workflows+and+Android+RPA;Exploring+Full-stack+Development+with+Node.js+and+Java" alt="Typing SVG" />
+  </a>
+</p>
 
-* 🌍  I'm based in CN HangZhou
-* ✉️  You can contact me at Gmail [zhuzm1916@gmail.com](mailto:zhuzm1916@gmail.com)
+<p align="center">
+  在杭州持续构建 AI 工具、Web 产品与自动化应用。
+</p>
 
+<p align="center">
+  <a href="mailto:zhuzm0119@gmail.com">zhuzm0119@gmail.com</a>
+  ·
+  <a href="https://x.com/coder_zhuzm">@coder_zhuzm</a>
+</p>
 
+## Tech Stack
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,astro,java,androidstudio,cloudflare,git,github,vscode&perline=13" alt="Tech Stack" />
+  </a>
+</p>
 
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=coder-zhuzm&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
+</p>
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-zhuzm&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
